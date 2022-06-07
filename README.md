@@ -1,6 +1,6 @@
 # Layout Sample Project
 
-### [Site link](https://github.com/HomeItsGood/my__first-project/tree/main)
+### [Site link](https://github.com/HomeItsGood/first)
 
 Layout supports mobile (up-to-320) and desktop (up-to-1400) versions
 
