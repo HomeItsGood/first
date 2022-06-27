@@ -1,8 +1,8 @@
 # Layout Sample Project
 
-### [Site link](https://github.com/HomeItsGood/first)
-
-Layout supports mobile (up-to-320) and desktop (up-to-1400) versions
+### [Site link](https://github.com/HomeItsGood/my__first-project/tree/main)
+### [Netlify](https://stately-bienenstitch-990b7a.netlify.app)
+Layout supports mobile (up-to-320px) and desktop (up-to-1400px) versions
 
 ### The tech stack is:
 
